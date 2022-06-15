@@ -13,10 +13,12 @@ from inference.nli import NLIModel
 def parse_args() -> Namespace:
     args = ArgumentParser()
     args.add_argument("--device_id", type=int)
-    args.add_argument("--data_filename", default="./data/CREAK/1_gen/dev.Q.json", type=str)
-    args.add_argument("--G_filename", default="./data/CREAK/1_gen/dev.G.pkl", type=str)
+    args.add_argument("--dataset_name", default="Com2Sense", type=str)
+
     args = args.parse_args()
     args.device = torch.device(f"cuda:{args.device_id}")
+    args.data_filename = f"./data/{args.datset_name}/1_gen/dev.Q.json"
+    args.G_filename = f"./data/{args.dataset_name}/1_gen/dev.G.pkl"
 
     return args
 
