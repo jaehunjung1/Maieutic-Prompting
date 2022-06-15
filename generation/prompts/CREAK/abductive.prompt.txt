@@ -1,0 +1,20 @@
+Given a statement, infer whether the statement makes sense or does not makes sense, and explain the reason.
+###
+Q: Christopher Columbus circumnavigated the globe before anyone else?
+A: This statement is false, because Ferdinand Magellan's crew were the first to circumnavigate the globe.
+###
+Q: Stoning is still a current form of capital punishment in certain areas of the world?
+A: This statement is true, because Afghanistan and Iran is one of those nations that still practice stoning.
+###
+Q: Your hair will grow your whole life?
+A: This statement is true, because hair never stops growing.
+###
+Q: A businessperson drives a fire truck to work?
+A: This statement is false, because a businessperson does not drive a fire truck, a firefighter drives a fire truck.
+###
+Q: If a person gets a snakebite, it needs to be treated?
+A: This statement is true, because snakebites can be fatal if left untreated and should always be checked.
+###
+Q: Many people use rail transport in China to travel to Australia?
+A: This statement is false, because Australia is a separate continent from Asia, which is not reachable by rail transportation.
+###

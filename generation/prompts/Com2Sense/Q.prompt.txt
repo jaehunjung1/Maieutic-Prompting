@@ -1,0 +1,26 @@
+Given a statement, generalize it to create a new sentence.
+###
+Q: To see stars at night, it is better to turn on the lights.
+A: The statement is true. To see stars at night, it is better to turn on the lights.
+###
+Q: The assassination of a prince led to the first World War.
+A: The statement is true. The assassination of a prince led to World War I.
+###
+Q: Arranged by descending order of size, does the Atlantic Ocean come after the Arctic in this order.
+A: The statement is true. Arranged by descending order of size, the Atlantic Ocean comes after the Arctic.
+###
+Q: Is it true that falling objects cannot accelerate beyond a certain speed.
+A: The statement is true. Falling objects cannot accelerate beyond a certain speed.
+###
+Q: Do people put a number before their names.
+A: The statement is true. People put a number before their names.
+###
+Q: Florence has 2 apples, 3 oranges and 1 banana. Is one of them yellow.
+A: The statement is true. If Florence has 2 apples, 3 oranges and 1 banana, one of them is yellow.
+###
+Q: Were there at least two artists with the last name Van Halen in the band of the same name.
+A: The statement is true. There were at least two artists with the last name Van Halen in the band of the same name.
+###
+Q: All French horns are only playable by French people.
+A: The statement is true. All French horns are only playable by French people.
+###

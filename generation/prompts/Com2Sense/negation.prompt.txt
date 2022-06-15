@@ -1,0 +1,32 @@
+Given a statement, negate it to create a new sentence.
+###
+Q: To see stars at night, it is better to turn on the lights.
+A: The statement is false. To see stars at night, it is better not to turn on the lights.
+###
+Q: The assassination of a prince led to World War I.
+A: The statement is false. The assassination of a prince did not lead to World War I.
+###
+Q: Arranged by descending order of size, the Atlantic Ocean comes after the Arctic.
+A: The statement is false. Arranged by descending order of size, the Atlantic Ocean does not come after the Arctic.
+###
+Q: Falling objects cannot accelerate beyond a certain speed.
+A: The statement is false. Falling objects can accelerate beyond a certain speed.
+###
+Q: People put a number before their names.
+A: The statement is false. People do not put a number before their names.
+###
+Q: If Florence has 2 apples, 3 oranges and 1 banana, one of them is yellow.
+A: The statement is false. If Florence has 2 apples, 3 oranges and 1 banana, none of them is yellow.
+###
+Q: There were at least two artists with the last name Van Halen in the band of the same name.
+A: The statement is false. There were no two artists with the last name Van Halen in the band of the same name.
+###
+Q: Some people are short because they eat too many bananas.
+A: The statement is false. Some people are short, but it is not because they eat too many bananas.
+###
+Q: All French horns are only playable by French people.
+A: The statement is false. Not all French horns are only playable by French people.
+###
+Q: One is a number that comes before zero.
+A: The statement is false. One is a number that comes after zero.
+###

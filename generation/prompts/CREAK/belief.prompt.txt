@@ -1,0 +1,20 @@
+Given a statement, correctly explain whether the statement is true or false.
+###
+Q: Christopher Columbus circumnavigated the globe before anyone else?
+A: Ferdinand Magellan's crew were the first to circumnavigate the globe. Therefore, the statement is false.
+###
+Q: Stoning is still a current form of capital punishment in certain areas of the world?
+A: Afghanistan and Iran is one of those nations that still practice stoning. Therefore, the statement is true.
+###
+Q: Your hair will grow your whole life?
+A: Hair never stops growing. Therefore, the statement is true.
+###
+Q: A businessperson drives a fire truck to work?
+A: A businessperson does not drive a fire truck, a firefighter drives a fire truck. Therefore, the statement is false.
+###
+Q: If a person gets a snakebite, it needs to be treated?
+A: Snakebites can be fatal if left untreated and should always be checked. Therefore, the statement is true.
+###
+Q: Many people use rail transport in China to travel to Australia?
+A: Australia is a separate continent from Asia, which is not reachable by rail transportation. Therefore, the statement is false.
+###

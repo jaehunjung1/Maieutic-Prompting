@@ -1,0 +1,20 @@
+Given a statement, determine whether the statement makes sense, and explain the reason.
+###
+Q: Jane loved to upset her parents with loud noises so she threw a paper plate on the floor?
+A: A paper plate is light and will not make any noise when thrown to the floor. Therefore, the statement is false.
+###
+Q: To see stars at night, it is better not to turn on the lights?
+A: Stars are seen more clearly when it's dark. Therefore, the statement is true.
+###
+Q: If you want a drink that wakes you up, it's better to look for one with a lot of caffeine rather than protein?
+A: Caffeine is a stimulant and will wake you up. Therefore, the statement is true.
+###
+Q: It was January in New York so Pat knew that he would see more people at the park rather than in the gym?
+A: It's usually freezing in New York on January, so people would prefer staying indoor rather than going outside. Therefore, the statement is false.
+###
+Q: A man who can bench press two hundred pounds can easily lift a small child?
+A: A small child typically weighs way less than 200 pounds. Therefore, the statement is true.
+###
+Q: It is a hot day, so Fenton grabbed a big, red popsicle. If Fenton doesn't want to stain the floor, he should stand in the room with the carpeted floor?
+A: If one spills popsicle to the carpet, it will be difficult to clean up because the carpet will absorb it. Therefore, the statement is false.
+###

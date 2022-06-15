@@ -1,0 +1,20 @@
+Given a statement, infer whether the statement makes sense or does not makes sense, and explain the reason.
+###
+Q: To see stars at night, it is better to turn on the lights?
+A: This statement is false, because stars are seen more clearly when it's dark.
+###
+Q: The assassination of a prince led to the first World War?
+A: This statement is true, because the assassination of Archduke Franz Ferdinand, heir to the Austro-Hungarian throne in 1914 led to the outbreak of the first World War.
+###
+Q: If you want a drink that wakes you up, it's better to look for one with a lot of caffeine rather than protein?
+A: This statement is true, because caffeine is a stimulant and will wake you up.
+###
+Q: It was January in New York so Pat knew that he would see more people at the park rather than in the gym?
+A: This statement is false, because it's usually freezing in New York on January, so people would prefer staying indoor rather than going outside.
+###
+Q: It is a hot day, so Fenton grabbed a big, red popsicle. If Fenton doesn't want to stain the floor, he should stand in the room with the carpeted floor?
+A: This statement is false, because if one spills popsicle to the carpet, it will be difficult to clean up because the carpet will absorb it.
+###
+Q: A man who can bench press two hundred pounds can easily lift a small child?
+A: This statement is true, because a small child typically weighs much less than 200 pounds.
+###
