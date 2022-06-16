@@ -8,7 +8,7 @@ from pysat.examples.rc2 import RC2
 from pysat.formula import WCNF
 from treelib import Tree
 
-from inference.nli import NLIModel
+from inference.verifier import NLIModel
 
 
 @dataclass
