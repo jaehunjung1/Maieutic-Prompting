@@ -103,3 +103,4 @@ ENV/
 # other
 .vscode
 .idea/
+*.zip
