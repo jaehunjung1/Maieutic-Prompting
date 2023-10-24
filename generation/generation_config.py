@@ -9,14 +9,14 @@ PROMPT_CONFIGS: Final[dict] = {
         "question": "./generation/prompts/CSQA2/Q.prompt.txt",
     },
     "Com2Sense": {
-        "abductive": "generation/prompts/Com2Sense/abductive.prompt.txt",
-        "belief": "generation/prompts/Com2Sense/belief.prompt.txt",
-        "negation": "generation/prompts/Com2Sense/negation.prompt.txt",
+        "abductive": "./generation/prompts/Com2Sense/abductive.prompt.txt",
+        "belief": "./generation/prompts/Com2Sense/belief.prompt.txt",
+        "negation": "./generation/prompts/Com2Sense/negation.prompt.txt",
         "question": "./generation/prompts/Com2Sense/Q.prompt.txt",
     },
     "CREAK": {
-        "abductive": "generation/prompts/CREAK/abductive.prompt.txt",
-        "belief": "generation/prompts/CREAK/belief.prompt.txt",
+        "abductive": "./generation/prompts/CREAK/abductive.prompt.txt",
+        "belief": "./generation/prompts/CREAK/belief.prompt.txt",
         "negation": "./generation/prompts/CREAK/negation.prompt.txt",
         "question": "./generation/prompts/CREAK/Q.prompt.txt",
     }
